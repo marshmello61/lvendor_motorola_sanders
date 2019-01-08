@@ -1638,11 +1638,8 @@ PRODUCT_PACKAGES += \
     libqct_resampler \
     libgpustats \
     TimeService \
-    embms \
     com.qti.snapdragon.sdk.display \
-    embmslibrary \
     libtinycompress_vendor \
-    imscmlibrary \
     qcrilhook \
     ims \
     imssettings \
@@ -1654,12 +1651,9 @@ PRODUCT_PACKAGES += \
     QtiTelephonyServicelibrary \
     atfwd \
     com.quicinc.cne \
-    dpmapi \
     QPerformance \
     UxPerformance \
     qti-vzw-ims-internal \
-    rcsimssettings \
-    tcmclient \
     QtiTelephonyService \
     DTVPlayer \
     DTVService \
